@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cd1c55b65004c41c6af5cb70a731fdb6
+timeCreated: 1496900355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Taurus Condensed
+  fontNames:
+  - Alpha Taurus Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

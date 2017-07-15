@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8b2e9960f06b043cb88dbbcb5b09909f
+timeCreated: 1496900355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Taurus CondItalic
+  fontNames:
+  - Alpha Taurus CondItalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

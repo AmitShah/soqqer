@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 211d1f9cc0fb642d6b289e2110866c6c
+timeCreated: 1496900355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Taurus Pro Italic
+  fontNames:
+  - Alpha Taurus Pro Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

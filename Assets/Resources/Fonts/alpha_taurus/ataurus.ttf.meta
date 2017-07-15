@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7137c4f842417426c9aeac03b3d606be
+timeCreated: 1496900355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Taurus
+  fontNames:
+  - Alpha Taurus
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

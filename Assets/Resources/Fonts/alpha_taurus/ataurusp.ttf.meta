@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d71ded92a01c04533b8bf8db2071e5d7
+timeCreated: 1496900355
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Alpha Taurus Pro
+  fontNames:
+  - Alpha Taurus Pro
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
